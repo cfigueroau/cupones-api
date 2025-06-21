@@ -16,5 +16,6 @@ Automatizando las pruebas y ejecutándolas con cada cambio usando CI. También r
 
 ![image](https://github.com/user-attachments/assets/e90e3038-af0b-41aa-b056-9c303b24f6a5)
 
+![image](https://github.com/user-attachments/assets/051474c7-8d74-44ae-9032-dcfaf4458e2b)
 
 
